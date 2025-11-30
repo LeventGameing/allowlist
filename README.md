@@ -7,3 +7,7 @@
 
 ## Fastflag Discord bot🤖
 ## https://github.com/Fast-Flags/FastFlags
+
+
+## Discord Server🧑‍🦲
+## https://discord.gg/UHfwyxjeya
